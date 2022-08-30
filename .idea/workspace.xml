@@ -1,22 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68a13100-f92d-4024-9a34-039a5252c83a" name="Default Changelist" comment="" />
+    <list default="true" id="68a13100-f92d-4024-9a34-039a5252c83a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/repoCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/debounce.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/redux.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/FavouritesPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/github/github.api.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/github/github.slice.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2COEF3HUkhaSgatMQAOM7cEXDzv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-app" />
+    <property name="ts.external.directory.path" value="D:\batish\react-advanced-github\node_modules\typescript\lib" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,11 +82,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658665123864</updated>
-      <workItem from="1658665126915" duration="903000" />
+      <workItem from="1658665126915" duration="8723000" />
+      <workItem from="1658687219708" duration="12431000" />
+      <workItem from="1658912832034" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="980" y="183" key="FileChooserDialogImpl" timestamp="1658761082090">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="980" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1658761082090" />
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1658695163288">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1658695163288" />
   </component>
 </project>
